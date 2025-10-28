@@ -30,5 +30,7 @@ const styles = StyleSheet.create({
   Child: {
     width: 80,
     height: 80,
+    alignItems: "center",
+    justifyContent: "center",
   },
 });
